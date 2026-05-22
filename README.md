@@ -136,16 +136,6 @@
 <br>
 <br>
 
-<!--Git Animals-->
-<div align="center">
-  <a href="https://github.com/devxb/gitanimals">
-    <img
-      src="https://render.gitanimals.org/farms/b1ueseoyoung"
-      width="600"
-      height="300"
-    />
-  </a>
-</div>
 
 <br>
 
