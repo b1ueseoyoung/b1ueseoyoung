@@ -129,7 +129,7 @@
 | 🏆 **KCC 2025** | 학부생 장려상 — *FairyRAG* |
 | 🎤 **HCI Korea 2026** | 구두 발표 — *CO-DITOR* |
 | 📄 **논문 4편** | FairyRAG · CO-DITOR · Co-Narrator · PA-RAG |
-| 🎓 **연구** | 한성대 컴공 산학공동연구 · 학부연구생 (진행 중) |
+| 🎓 **연구** | 한성대 컴공 IRIS Lab 산학공동연구 · 학부연구생 (진행 중) |
 | 🏫 **교육** | KT AIVLE School 9기 (AI 트랙, 반장) |
 
 </div>
