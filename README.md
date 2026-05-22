@@ -97,15 +97,6 @@
 <br>
 <br>
 
-<!--GitHub Stats-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=b1ueseoyoung&show_icons=true&theme=radical" />&nbsp; &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=b1ueseoyoung&layout=compact&count_private=true" />
-
-  <br>
-  <br>
-</div>
-
 <!--Featured Projects-->
 <h3 align="center">💼 Featured Projects 💼</h3>
 <div align="center">
