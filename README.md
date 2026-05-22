@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
 <div align="center">
 
-<img width="1080" height="580" alt="Image" src="https://github.com/user-attachments/assets/10d803c6-4eee-49d5-8862-785d2e74850c" />
+<img width="1080" height="580" alt="Image" src="https://github.com/user-attachments/assets/1d940632-dfc6-4813-aa60-fdb2c2c1f583" />
 
 <h1>이서영 (Seoyoung Lee)</h1>
 <h3>AI Engineer & System Architect</h3>
