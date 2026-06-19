@@ -139,4 +139,7 @@
   <a href="mailto:moosim1120@gmail.com">
     <img src="https://img.shields.io/badge/moosim1120@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
   </a>
+
 </div>
+
+<img width="1080" alt="GitHub contribution space shooter" src="game.gif" />
