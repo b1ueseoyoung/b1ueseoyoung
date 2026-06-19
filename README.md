@@ -1,8 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
 
-<!-- <img width="1080" height="580" alt="Image" src="https://github.com/user-attachments/assets/1d940632-dfc6-4813-aa60-fdb2c2c1f583" /> -->
-<img width=600 src="https://github.com/user-attachments/assets/263e7fb0-dab0-4893-8886-969666dbd909" />
+<img width="1080" height="580" alt="Image" src="https://github.com/user-attachments/assets/1d940632-dfc6-4813-aa60-fdb2c2c1f583" />
+<!--  <img width=600 src="https://github.com/user-attachments/assets/263e7fb0-dab0-4893-8886-969666dbd909" /> -->
 <h3>AI Engineer & System Architect</h3>
 
 > "이걸 쓰는 사람은 어떤 경험을 하게 될까?"<br>
