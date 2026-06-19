@@ -142,4 +142,4 @@
 
 </div>
 
-<img width="1080" alt="GitHub contribution space shooter" src="game.gif" />
+<!-- <img width="1080" alt="GitHub contribution space shooter" src="game.gif" /> -->
