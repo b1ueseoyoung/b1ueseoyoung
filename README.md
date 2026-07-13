@@ -103,7 +103,7 @@
 | 프로젝트 | 설명 | 링크 |
 | :--- | :--- | :--- |
 | **꿈도깨비** | FairyRAG 논문 기반 대화형 동화 생성 웹 서비스 (팀장 · 백엔드) | [Repo](https://github.com/BookEatingBoogie/main) · [Demo](https://youtu.be/iD2Vp7fY_0E) |
-| **PPT-to-Video Multi-Agent** | PPT → 동영상 강의 자동 변환 파이프라인 (조장 · State 관리) | LangGraph · Python |
+| **SELLON** | 멀티채널 이커머스 셀러 대상 B2B AI SaaS, 이상 감지·CS 분류 에이전트 (조장 · AI 파트 전담) | [Repo](https://github.com/AIVLE-SELLoN) |
 | **1형 소아당뇨 예측 시스템** | CGM 데이터 기반 혈당 예측 & 음식 추천 | [Repo](https://github.com/b1ueseoyoung/DBProject) |
 
 </div>
