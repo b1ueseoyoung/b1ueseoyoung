@@ -21,7 +21,7 @@
 | :--- | :--- |
 | **UX-first AI Design** | FairyRAG · CO-DITOR 등 사용자 맥락 중심 AI 설계 |
 | **System Architecture** | Multi-Agent 파이프라인 · State 관리 · Lore Keeper / Co-Author 구조 설계 |
-| **Research → Production** | 논문 4편 · KCC 2025 장려상 · HCI Korea 2026 발표 · 실서비스 구현 |
+| **Research → Production** | 논문 4편 · KSC 2025 장려상 · HCI Korea 2026 발표 · 실서비스 구현 |
 
 </div>
 
@@ -116,7 +116,7 @@
 
 | 구분 | 내용 |
 | :--- | :--- |
-| 🏆 **KCC 2025** | 학부생 장려상 — *FairyRAG* |
+| 🏆 **KSC 2025** | 학부생 장려상 — *FairyRAG* |
 | 🎤 **HCI Korea 2026** | 구두 발표 — *CO-DITOR* |
 | 📄 **논문 4편** | FairyRAG · CO-DITOR · Co-Narrator · PA-RAG |
 | 🎓 **연구** | 한성대 컴공 IRIS Lab 산학공동연구 · 학부연구생 (진행 중) |
